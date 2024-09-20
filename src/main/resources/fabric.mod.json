@@ -3,13 +3,13 @@
 	"id": "deathcoordinates",
 	"version": "${version}",
 	"name": "Death Coordinates",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod sends an automatic message to players (on death) with the coordinates and world where they died.",
 	"authors": [
 		"FsmDev"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://fsmdev.net/",
+		"sources": "https://github.com/fsmdev-net/death-coordinates"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/deathcoordinates/icon.png",
